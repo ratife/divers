@@ -1,4 +1,4 @@
-public class RunLeftEncoding {
+public class RunLengthEncoding {
 	public static String encode(String txt){
 		String ret = "";
 		int cpt = 1;
